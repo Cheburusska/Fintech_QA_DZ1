@@ -1,0 +1,9 @@
+Steps:
+Enter test phone different from format [3,4,5,6,8,9] + not 9 digits
+Click Отправить
+
+Result:
+User cannot click Отправить
+Message "Номер телефона должен состоять из 10 цифр, начиная с кода оператора"
+
+
