@@ -1,0 +1,12 @@
+Steps:
+Enter:
+test name: Иванов Иван Иванович
+test phone: 911 111 11 11
+test mail: test@mail.com
+test city: Москва
+mark checkbox
+Click Отправить
+
+Result:
+User cannot click Отправить
+Message "Поле обязательное"
