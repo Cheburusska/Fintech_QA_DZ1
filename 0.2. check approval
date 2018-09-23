@@ -1,0 +1,14 @@
+Preconditions:
+Given not logined user
+
+Steps:
+Enter:
+test name: Иванов Иван Иванович
+test phone: 111 1111
+test mail: test@mail.com
+test city: Москва
+test vacancy - first from dropdown
+Click Отправить
+
+Result:
+User cannot click Отправить
