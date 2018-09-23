@@ -1,0 +1,7 @@
+Steps:
+Enter test phone different from format [a-zA-Z-a-яА-Я ]*
+Click Отправить
+
+Result:
+User cannot click Отправить
+Message "Допустимо использовать только буквы русского, латинского алфавита и дефис"
