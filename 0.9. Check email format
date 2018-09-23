@@ -1,0 +1,7 @@
+Steps:
+Enter test mail different from format xxxx@xxxx.xxx
+Click Отправить
+
+Result:
+User cannot click Отправить
+Message "Введите корректный адрес эл. почты"
