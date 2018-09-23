@@ -1,0 +1,12 @@
+Steps:
+Enter:
+test phone: 111 1111
+test mail: test@mail.com
+test city: Москва
+test vacancy - first from dropdown
+mark checkbox
+Click Отправить
+
+Result:
+User cannot click Отправить
+Message "Поле обязательно" 
